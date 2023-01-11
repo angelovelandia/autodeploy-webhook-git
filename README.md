@@ -3,8 +3,9 @@
 Webhook auto deploy repositories.
 
 ## Authors ✒️
+Creditos especiales es este [blog](https://yushulx.medium.com/how-to-auto-deploy-source-code-to-iis-web-server-via-github-webhook-3649b67abf2a) 😊
 
-* **Angelo Velandia** - *Complete Work* - [angelovelandia](https://github.com/angelovelandia)
+* **Angelo Velandia** - [angelovelandia](https://github.com/angelovelandia)
 
 ## Expressions of Gratitude 🎁
 
